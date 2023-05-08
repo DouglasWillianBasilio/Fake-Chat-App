@@ -6,9 +6,9 @@ const avatarImage = 'logo.png';
 const fakeMessages = [
     'Olá, sou o Chat App e você?',
     'Prazer em te conhecer',
-    'Como você esta?',
-    'Gostaria de ir tomar no cu?',
-    'Legal!',
+    'Agora RA TOMA NO CU',
+    'XAU!',
+    // 'Legal!',
     // 'Youtube é um bom lugar para compartilhar vídeos',
     // 'I think you\'re a nice person',
     // 'Why do you think that?',
